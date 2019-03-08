@@ -1,5 +1,5 @@
-{
-    "cn": {
+﻿{
+    "zh": {
         "hello": "你好",
         "world": "世界",
         "welcome": "{hello}，{world}。"
