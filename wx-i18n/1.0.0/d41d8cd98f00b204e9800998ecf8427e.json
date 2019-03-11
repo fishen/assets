@@ -2,11 +2,11 @@
     "zh": {
         "hello": "你好",
         "world": "世界",
-        "welcome": "${hello}，${world}。"
+        "welcome": "{hello}，{world}。"
     },
     "en": {
         "hello": "Hello",
         "world": "World",
-        "welcome": "${hello}, ${world}."
+        "welcome": "{hello}, {world}."
     }
 }
